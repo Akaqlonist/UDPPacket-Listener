@@ -1,0 +1,127 @@
+
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 125 Bytes(Size of Packet)
+ |-Identification : 30555
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 245
+ |-Source IP : 192.168.1.120
+ |-Destination IP : 255.255.255.255
+
+UDP Header
+ |-Source Port : 58448
+ |-Destination Port : 10505
+ |-UDP Length : 105
+ |-UDP Checksum : 44332
+
+IP Header
+ 45 00 00 7d 77 5b 00 00 80 11 00 f5 c0 a8 01 78          E..}w[.........x 
+ ff ff ff ff                                              .... 
+
+UDP Header
+ e4 50 29 09 00 69 ad 2c                                  .P)..i., 
+
+Data Payload
+ 42 65 61 63 6f 6e 2d 76 32 7c 44 45 53 4b 54 4f          Beacon-v2|DESKTO 
+ 50 2d 46 49 46 37 43 44 41 7c 57 69 6e 64 6f 77          P-FIF7CDA|Window 
+ 73 50 43 7c 34 34 61 31 64 31 34 66 35 64 31 62          sPC|44a1d14f5d1b 
+ 38 38 34 32 34 66 37 39 65 33 30 38 37 32 34 33          88424f79e3087243 
+ 64 36 37 34 32 63 63 34 66 33 34 30 0a 4f 70 65          d6742cc4f340.Ope 
+ 6e 53 65 6e 73 6f 72 2d 76 32 7c 35 34 37 38 35          nSensor-v2|54785 
+ 0a                                                       . 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 125 Bytes(Size of Packet)
+ |-Identification : 30556
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 244
+ |-Source IP : 192.168.1.120
+ |-Destination IP : 255.255.255.255
+
+UDP Header
+ |-Source Port : 58452
+ |-Destination Port : 10505
+ |-UDP Length : 105
+ |-UDP Checksum : 44328
+
+IP Header
+ 45 00 00 7d 77 5c 00 00 80 11 00 f4 c0 a8 01 78          E..}w\.........x 
+ ff ff ff ff                                              .... 
+
+UDP Header
+ e4 54 29 09 00 69 ad 28                                  .T)..i.( 
+
+Data Payload
+ 42 65 61 63 6f 6e 2d 76 32 7c 44 45 53 4b 54 4f          Beacon-v2|DESKTO 
+ 50 2d 46 49 46 37 43 44 41 7c 57 69 6e 64 6f 77          P-FIF7CDA|Window 
+ 73 50 43 7c 34 34 61 31 64 31 34 66 35 64 31 62          sPC|44a1d14f5d1b 
+ 38 38 34 32 34 66 37 39 65 33 30 38 37 32 34 33          88424f79e3087243 
+ 64 36 37 34 32 63 63 34 66 33 34 30 0a 4f 70 65          d6742cc4f340.Ope 
+ 6e 53 65 6e 73 6f 72 2d 76 32 7c 35 34 37 38 35          nSensor-v2|54785 
+ 0a                                                       . 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 125 Bytes(Size of Packet)
+ |-Identification : 30557
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 243
+ |-Source IP : 192.168.1.120
+ |-Destination IP : 255.255.255.255
+
+UDP Header
+ |-Source Port : 55719
+ |-Destination Port : 10505
+ |-UDP Length : 105
+ |-UDP Checksum : 47061
+
+IP Header
+ 45 00 00 7d 77 5d 00 00 80 11 00 f3 c0 a8 01 78          E..}w].........x 
+ ff ff ff ff                                              .... 
+
+UDP Header
+ d9 a7 29 09 00 69 b7 d5                                  ..)..i.. 
+
+Data Payload
+ 42 65 61 63 6f 6e 2d 76 32 7c 44 45 53 4b 54 4f          Beacon-v2|DESKTO 
+ 50 2d 46 49 46 37 43 44 41 7c 57 69 6e 64 6f 77          P-FIF7CDA|Window 
+ 73 50 43 7c 34 34 61 31 64 31 34 66 35 64 31 62          sPC|44a1d14f5d1b 
+ 38 38 34 32 34 66 37 39 65 33 30 38 37 32 34 33          88424f79e3087243 
+ 64 36 37 34 32 63 63 34 66 33 34 30 0a 4f 70 65          d6742cc4f340.Ope 
+ 6e 53 65 6e 73 6f 72 2d 76 32 7c 35 34 37 38 35          nSensor-v2|54785 
+ 0a                                                       . 
+
+
+###########################################################
